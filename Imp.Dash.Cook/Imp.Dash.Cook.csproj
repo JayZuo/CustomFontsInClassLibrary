@@ -108,6 +108,8 @@
     <Content Include="Fonts\ARCADE_I.TTF" />
     <Content Include="Fonts\ARCADE_R.TTF" />
     <Content Include="Fonts\ARCADE_N.TTF" />
+    <Content Include="Fonts\Portmanteau Regular.ttf" />
+    <Content Include="Fonts\Portmanteau-Regular.otf" />
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>

@@ -17,6 +17,12 @@
             <TextBlock FontFamily="ms-appx:///Imp.Dash.Cook/Fonts/ARCADE_R.TTF#Arcade Rounded"
                        FontSize="40"
                        Text="Banana" />
+            <TextBlock FontFamily="ms-appx:///Imp.Dash.Cook/Fonts/Portmanteau Regular.ttf#Portmanteau"
+                       FontSize="40"
+                       Text="Banana" />
+            <TextBlock FontFamily="ms-appx:///Imp.Dash.Cook/Fonts/Portmanteau-Regular.otf#Portmanteau"
+                       FontSize="40"
+                       Text="Banana" />
         </StackPanel>
     </Grid>
 </Page>
